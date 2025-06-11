@@ -1,0 +1,289 @@
+I. DIPLOMA PROGRAMS (Usually 1-3 years, focused on practical skills)
+
+Engineering & Technology:
+Diploma in Mechanical Engineering
+Diploma in Electrical Engineering
+Diploma in Civil Engineering
+Diploma in Computer Science Engineering / IT
+Diploma in Electronics & Communication Engineering
+Diploma in Chemical Engineering
+Diploma in Automobile Engineering
+Diploma in Aeronautical Engineering
+Health Sciences:
+Diploma in Nursing (e.g., GNM - General Nursing and Midwifery)
+Diploma in Pharmacy (D.Pharm)
+Diploma in Medical Laboratory Technology (DMLT)
+Diploma in X-Ray Technology / Radiography
+Diploma in Physiotherapy (DPT - some regions)
+Diploma in Optometry
+Management & Commerce:
+Diploma in Business Administration
+Diploma in Hotel Management
+Diploma in Retail Management
+Diploma in Financial Accounting
+Diploma in Event Management
+Diploma in Travel & Tourism
+Arts & Design:
+Diploma in Fine Arts
+Diploma in Graphic Design
+Diploma in Interior Design
+Diploma in Animation & Multimedia
+Diploma in Fashion Design
+Education:
+Diploma in Elementary Education (D.El.Ed.)
+Diploma in Early Childhood Care and Education (DECE)
+Other Vocational:
+Diploma in Journalism & Mass Communication
+Diploma in Food Production / Culinary Arts
+Diploma in Agriculture
+II. BACHELOR'S DEGREES (Usually 3-4 years, foundational academic knowledge)
+
+Engineering & Technology:
+B.Tech. / B.E. (Bachelor of Technology / Bachelor of Engineering)
+Computer Science Engineering (CSE)
+Information Technology (IT)
+Mechanical Engineering (ME)
+Civil Engineering (CE)
+Electrical Engineering (EE)
+Electronics & Communication Engineering (ECE)
+Chemical Engineering
+Aerospace / Aeronautical Engineering
+Biotechnology Engineering
+Automobile Engineering
+Agricultural Engineering
+Software Engineering
+Data Science & Engineering
+Artificial Intelligence & Machine Learning
+Robotics Engineering
+Mechatronics Engineering
+B.Arch. (Bachelor of Architecture)
+Computer Applications & IT:
+BCA (Bachelor of Computer Applications)
+(Specializations are less common at BCA level, often integrated or chosen via electives: Cloud Computing, Data Science, AI, Cybersecurity)
+B.Sc. in Computer Science / IT (see B.Sc. below)
+Science:
+B.Sc. (Bachelor of Science)
+Physics
+Chemistry
+Mathematics
+Biology / Life Sciences
+Botany
+Zoology
+Computer Science
+Information Technology
+Biotechnology
+Microbiology
+Environmental Science
+Geology
+Statistics
+Agriculture
+Horticulture
+Forestry
+Forensic Science
+Nautical Science
+Home Science
+Genetics
+Food Technology / Nutrition & Dietetics
+Arts & Humanities:
+B.A. (Bachelor of Arts)
+English Literature
+History
+Political Science
+Sociology
+Psychology
+Economics
+Philosophy
+Geography
+Journalism & Mass Communication
+Linguistics
+Anthropology
+Archaeology
+Public Administration
+Foreign Languages (e.g., French, German, Spanish, Japanese)
+Religious Studies
+Commerce & Management:
+B.Com. (Bachelor of Commerce)
+General
+Honours (Hons.)
+Accounting & Finance
+Taxation
+Banking & Insurance
+Computer Applications
+E-Commerce
+BBA / BBM (Bachelor of Business Administration / Bachelor of Business Management)
+General Management
+Marketing
+Finance
+Human Resource Management (HRM)
+International Business
+Operations Management
+Supply Chain Management
+Hospitality Management
+Retail Management
+Entrepreneurship
+Medicine & Health Sciences (Professional Degrees):
+MBBS (Bachelor of Medicine, Bachelor of Surgery)
+BDS (Bachelor of Dental Surgery)
+BAMS (Bachelor of Ayurvedic Medicine and Surgery)
+BHMS (Bachelor of Homeopathic Medicine and Surgery)
+BUMS (Bachelor of Unani Medicine and Surgery)
+B.Pharm. (Bachelor of Pharmacy)
+BPT (Bachelor of Physiotherapy)
+BOT (Bachelor of Occupational Therapy)
+B.Sc. Nursing
+B.V.Sc. & AH (Bachelor of Veterinary Science and Animal Husbandry)
+BASLP (Bachelor of Audiology and Speech-Language Pathology)
+Law:
+LL.B. (Bachelor of Laws)
+Integrated Law Degrees: B.A. LL.B., B.Com. LL.B., BBA LL.B., B.Sc. LL.B.
+Fine Arts & Design:
+BFA (Bachelor of Fine Arts)
+Painting
+Sculpture
+Applied Arts
+Photography
+Printmaking
+B.Des. (Bachelor of Design)
+Fashion Design
+Interior Design
+Product Design
+Graphic Design
+Animation & Multimedia Design
+Textile Design
+Game Design
+Education:
+B.Ed. (Bachelor of Education) (often a post-graduate degree in some systems, but can be a direct entry undergraduate program in others)
+Specializations by subject (e.g., B.Ed. Mathematics, B.Ed. English) or level (e.g., Elementary, Secondary)
+B.P.Ed. (Bachelor of Physical Education)
+Social Work:
+BSW (Bachelor of Social Work)
+III. MASTER'S DEGREES (Usually 1-2 years, specialized study in a chosen field)
+
+Engineering & Technology:
+M.Tech. / M.E. / M.S. (Master of Technology / Master of Engineering / Master of Science in Engineering)
+Computer Science Engineering (with further specs like AI, ML, Data Science, Cybersecurity, Cloud Computing)
+Software Engineering
+Information Technology
+Mechanical Engineering (with specs like Thermal, Design, Manufacturing, Robotics)
+Civil Engineering (with specs like Structural, Transportation, Environmental, Geotechnical)
+Electrical Engineering (with specs like Power Systems, Control Systems, Power Electronics)
+Electronics & Communication Engg. (with specs like VLSI Design, Embedded Systems, Communication Systems)
+Chemical Engineering
+Aerospace Engineering
+Biotechnology Engineering
+Environmental Engineering
+Industrial Engineering
+M.Arch. (Master of Architecture)
+Urban Design
+Landscape Architecture
+Sustainable Architecture
+Interior Architecture
+Computer Applications & IT:
+MCA (Master of Computer Applications)
+(Specializations emerging: AI & ML, Data Science, Cloud Computing, Cybersecurity)
+M.Sc. in Computer Science / IT (see M.Sc. below)
+Science:
+M.Sc. (Master of Science)
+Physics (Solid State, Nuclear, Particle, Astrophysics, etc.)
+Chemistry (Organic, Inorganic, Physical, Analytical, Pharmaceutical)
+Mathematics (Pure, Applied, Statistics)
+Biology / Life Sciences
+Botany
+Zoology
+Computer Science (often with focus areas like AI, Data Science)
+Information Technology
+Biotechnology
+Microbiology
+Environmental Science
+Geology
+Statistics
+Agriculture (Agronomy, Horticulture, Plant Pathology, etc.)
+Forensic Science
+Food Technology / Nutrition & Dietetics
+Data Science / Analytics
+Astrophysics
+Arts & Humanities:
+M.A. (Master of Arts)
+English Literature
+History
+Political Science
+Sociology
+Psychology (Clinical, Counseling, Industrial)
+Economics
+Philosophy
+Geography
+Journalism & Mass Communication
+Linguistics
+Anthropology
+Archaeology
+Public Administration
+International Relations
+Foreign Languages
+Commerce & Management:
+M.Com. (Master of Commerce)
+Accounting & Finance
+Taxation
+International Business
+Banking
+Marketing
+MBA (Master of Business Administration)
+Finance
+Marketing
+Human Resource Management (HRM)
+Operations Management
+Information Technology (IT) / Systems Management
+International Business
+Supply Chain Management / Logistics
+Entrepreneurship
+Business Analytics
+Healthcare Management
+Rural Management
+Agribusiness Management
+Other Management Masters:
+Master of Management Studies (MMS)
+Master of Finance / Financial Management (MFM)
+Master of Marketing Management (MMM)
+Master of Human Resource Development Management (MHRDM)
+Medicine & Health Sciences (Specialized Post-Graduate):
+MD (Doctor of Medicine - specialized, not a first professional degree like in the US)
+General Medicine, Pediatrics, Radiology, Anesthesiology, Psychiatry, Dermatology, Pathology, etc.
+MS (Master of Surgery - specialized)
+General Surgery, Orthopedics, Ophthalmology, ENT, Obstetrics & Gynecology, etc.
+MDS (Master of Dental Surgery)
+Orthodontics, Periodontics, Prosthodontics, Oral Surgery, etc.
+M.Pharm. (Master of Pharmacy)
+Pharmaceutics, Pharmacology, Pharmaceutical Chemistry, Pharmacognosy
+MPT (Master of Physiotherapy)
+Orthopedics, Neurology, Cardiopulmonary, Sports
+MOT (Master of Occupational Therapy)
+M.Sc. Nursing
+Medical-Surgical, Community Health, Psychiatric, Pediatric, OBG Nursing
+MPH (Master of Public Health)
+MHA (Master of Hospital Administration / Master of Health Administration)
+Law:
+LL.M. (Master of Laws)
+Constitutional Law
+Corporate Law
+Criminal Law
+Intellectual Property Rights (IPR)
+International Law
+Human Rights Law
+Environmental Law
+Fine Arts & Design:
+MFA (Master of Fine Arts)
+Painting, Sculpture, Applied Arts, etc.
+M.Des. (Master of Design)
+Fashion Design, Interior Design, Product Design, Graphic Design, UX/UI Design, etc.
+Education:
+M.Ed. (Master of Education)
+Educational Psychology
+Curriculum & Instruction
+Educational Administration & Management
+Special Education
+M.P.Ed. (Master of Physical Education)
+Social Work:
+MSW (Master of Social Work)
+Community Development
+Medical & Psychiatric Social Work
+Family & Child Welfare
+Criminology & Correctional Administration
